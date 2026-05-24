@@ -3,3 +3,4 @@ requests
 pyrogram
 telebot
 gunicorn
+psutil
