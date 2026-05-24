@@ -4,3 +4,4 @@ pyrogram
 telebot
 gunicorn
 psutil
+flask_socketio
